@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+    <!-- Font Awesome -->
+    <script src="https://kit.fontawesome.com/996973c893.js"></script>
+
+    <!-- Style -->
+    <link rel="stylesheet" href="style.css" />
+
+    <!-- Google Fonts -->
+    <link
+      href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,700,800,900&display=swap"
+      rel="stylesheet"
+    />
+
+    <title>Resume</title>
+  </head>
+  <body>
+    <div class="box">
+      <div class="header">
+        <div class="header-left">
+          <div class="name">
+            <h1 class="first-name">Menna</h1>
+            <h1 class="last-name">Khaled</h1>
+          </div>
+        </div>
+        <div class="header-right">
+          <div class="email">
+            <p>mennakhaled@gmail.com</p>
+            <i class="fas fa-envelope"></i>
+          </div>
+          <div class="linkedin">
+            <p>linkedin.com/in/menna-khaled-407718203</p>
+            <i class="fab fa-linkedin"></i>
+          </div>
+          <div class="github">
+            <p>https://github.com/menna-khaled</p>
+            <i class="fab fa-github"></i>
+          </div>
+          <div class="phone">
+            <p>+201283735121</p>
+            <i class="fas fa-phone"></i>
+          </div>
+        </div>
+      </div>
+      <hr />
+      <div class="Objectve">
+        <div class="obj-heading grey">
+          <i class="fas fa-bullseye icon"></i>
+          <h2>Education 2019-2023</h2>
+        </div>
+        <p>
+          Bachelor of Commerce <br>
+ Tanta University (TU), Tanta, Egypt<br>
+ Business Information system, (BIS section).<br>
+ Grade: Excellent.
+        </p>
+      </div>
+      <div class="education">
+        <div class="ed-heading grey">
+          <i class="fas fa-school icon"></i>
+          <h2>Internships</h2>
+        </div>
+
+        <table>
+          <tr>
+            <th>Duration</th>
+            <th>Title</th>
+            <th>Role</th>
+            <th>Details</th>
+          </tr>
+          <tr>
+            <td>Aug 2022 - Sep 2022</td>
+            <td>Alex Bank </td>
+            <td>Summer Intern </td>
+            <td> Attended functional, behavioral & interpersonal sessions for a 4-week online program.<br>
+ Worked on a team project that aimed at reducing overcrowding and adding app features for investment matters.</td>
+          </tr>
+          <tr>
+            <td>Jul 2022 - Aug 2022</td>
+            <td>Commercial International Bank (CIB)</td>
+            <td>Summer Intern </td>
+            <td> Attended 3 weeks of online sessions about financial inclusion, financial literacy and Business Skills.<br>
+ Successfully passed the final assessment with more than %80.</td>
+          </tr>
+          <tr>
+            <td>Dec 2021 - Jan 2022</td>
+            <td>Bright Network - Internship Experience UK</td>
+            <td>Intern</td>
+            <td> Took part in skills sessions with Google, P&G Enterprise, and other top firms.<br>
+ Received good feedback on a sample work simulating a realworld marketing task.</td>
+          </tr>
+        </table>
+      </div>
+      <div class="skills">
+          <div class="skills-heading grey">
+                <i class="fas fa-tools icon"></i>
+                <h2>Skills</h2>
+          </div>
+
+        <ul>
+          <li>Arabic: mother Tongue , English: very good in spoken and written English</li>
+          <li>HTML ,CSS, Javascript, jQuery, PHP, MySQL</li>
+          <li>python, C#</li>
+          <li>Team player, working under pressure,Research, analytical thinking, presentation skills,Motivating, problem solving, flexibility, multitasked</li>
+        </ul>
+      </div>
+      <div class="activities">
+        <div class="act-heading grey">
+          <i class="fab fa-creative-commons-nd icon"></i>
+          <h2>Experience</h2>
+        </div>
+
+        <p>
+          Jan 2022 – Present  : <b>University Center for Career Development</b> <br>
+ (UCCD), Tanta University, Tanta, Egypt.<br>
+ <b>Intern</b> <br>
+ Assist about (20) students per day in <br>
+process of application to training courses<br>
+ Manage the administrative work of about <br>
+(4) training rounds per weeks. <br>
+ Response questions to an average of (30) <br>
+students per day. <br> <br>
+
+
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
